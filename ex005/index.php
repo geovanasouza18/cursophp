@@ -27,7 +27,7 @@
             Como está sendo em ano de $ano?
         TEXTO;
         echo <<< 'FRASE'
-        Estou estudando $curso em $ano
+        Estou estudando com o melhor professor no $curso em $ano
         FRASE;
     ?>
 </body>
