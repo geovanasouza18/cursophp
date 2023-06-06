@@ -7,7 +7,7 @@
     <title>Funções Aritméticas</title>
 </head>
 <body>
-    <h1>Exemplos de funções aritméticas</h1> 
+    <h1>Exemplos de funções aritméticas no PHP</h1> 
     <?php 
         //valor absoluto
         $valor = abs(-9000);
@@ -33,7 +33,6 @@
         // calcular raíz a parte de cúbica
         $r = 27 ** (1/3);
         echo "<p> O resultado é: $r </p>";
-         
     ?>   
 
 </body>
