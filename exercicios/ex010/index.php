@@ -38,7 +38,9 @@
     //Número do comprimento do texto, bom para utilizar para CPF, RG. Conta com o espaço vazio
     echo strlen($mudar);
 
-
+    echo '<br>';
+    // Função que compara duas strings.
+    echo strcmp("Hello", "hello World");
 
     ?>
 </body>
